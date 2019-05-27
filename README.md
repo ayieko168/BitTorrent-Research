@@ -10,7 +10,7 @@
 	- http://www.bittorrent.org/beps/bep_0003.html
 
 3. A .torrent file decoder 
-	- Torrent decode = https://www.tools4noobs.com/
+	- Torrent decode = https://www.tools4noobs.com/online_tools/torrent_decode/
 
 	- Bencode Online = https://chocobo1.github.io/bencode_online/
 
