@@ -100,3 +100,7 @@
 
 11. Online utility to convert Magnet links to .torrent file 
 	- Convert a magnet link to torrent file  = http://magnet2torrent.com/
+
+12. Magnet links info:
+	- Magnet URI scheme Wiki = https://en.wikipedia.org/wiki/Magnet_URI_scheme
+	- What Is A Magnet Link And How Does It Differ From Torrents? = https://www.ghacks.net/2010/06/05/what-is-a-magnet-link-and-how-does-it-differ-from-torrents/
